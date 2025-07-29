@@ -66,7 +66,7 @@
 
 **Store**
 
-<img width="522" height="124" alt="image" src="https://github.com/user-attachments/assets/65d97d44-aae0-4162-b4da-1aab74e38868" />
+<img width="517" height="122" alt="image" src="https://github.com/user-attachments/assets/efaebd26-a224-4107-a491-a57e5595f439" />
 
 <img width="519" height="122" alt="image" src="https://github.com/user-attachments/assets/64a2587c-14b8-4411-80b2-181a0318272a" />
 
